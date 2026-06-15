@@ -6,7 +6,7 @@
 - สรุปข้อมูลด้วยฟังก์ชัน **Aggregate** + `GROUP BY`
 - ใช้ **Transaction** (COMMIT / ROLLBACK / SAVEPOINT) เพื่อให้ข้อมูลถูกต้องเมื่อทำหลายคำสั่งพร้อมกัน
 
-> เตรียมข้อมูล: Import ไฟล์ [`sql/02_advanced_seed.sql`](./sql/02_advanced_seed.sql) เข้าฐานข้อมูล `atsoft_day1` ก่อน
+> เตรียมข้อมูล: Import ไฟล์ [`src/advanced.sql`](./src/advanced.sql) เข้าฐานข้อมูล `atsoft_day1` ก่อน
 
 ---
 
